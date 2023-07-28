@@ -1,0 +1,707 @@
+[
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b484" },
+    "word": "awake",
+    "meaning": "to stop sleeping and become conscious",
+    "origin": "Old English āwacian, āwacan",
+    "ipaPronunciation": "əˈweɪk",
+    "synonyms": ["arouse", "waken", "stir"],
+    "antonyms": ["sleep", "doze", "slumber"],
+    "sentences": ["She will awake early to catch the sunrise.", "The noise in the street caused him to awake from his sleep."],
+    "syllables": "a·​wake",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b485" },
+    "word": "apple",
+    "meaning": "a fruit with red, green, or yellow skin and a round shape",
+    "origin": "Old English æppel",
+    "ipaPronunciation": "ˈæpəl",
+    "synonyms": ["fruit", "pomme"],
+    "antonyms": ["animal", "vegetable"],
+    "sentences": ["She took a bite of the juicy apple.", "He loves to eat apple slices as a snack."],
+    "syllables": "ap·​ple",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b486" },
+    "word": "angry",
+    "meaning": "feeling strong displeasure or resentment",
+    "origin": "Old Norse angr",
+    "ipaPronunciation": "ˈæŋɡri",
+    "synonyms": ["mad", "furious", "irate"],
+    "antonyms": ["happy", "calm", "content"],
+    "sentences": ["The teacher was angry at the students for not doing their homework.", "She gets angry when people talk during movies."],
+    "syllables": "an·​gry",
+    "partsOfSpeech": "adjective"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b487" },
+    "word": "ask",
+    "meaning": "to put a question to someone",
+    "origin": "Old English āscian",
+    "ipaPronunciation": "æsk",
+    "synonyms": ["inquire", "query", "question"],
+    "antonyms": ["answer", "reply"],
+    "sentences": ["Don't hesitate to ask if you have any doubts.", "He will ask his teacher for help with the assignment."],
+    "syllables": "ask",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b488" },
+    "word": "animal",
+    "meaning": "a living organism that feeds on organic matter",
+    "origin": "Latin animale",
+    "ipaPronunciation": "ˈænɪməl",
+    "synonyms": ["creature", "beast", "organism"],
+    "antonyms": ["plant", "inanimate"],
+    "sentences": ["The zoo has a variety of animal species.", "We must protect endangered animal species from extinction."],
+    "syllables": "an·​i·​mal",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b489" },
+    "word": "answer",
+    "meaning": "a spoken or written reply to a question",
+    "origin": "Old English andswaru",
+    "ipaPronunciation": "ˈænsər",
+    "synonyms": ["reply", "response", "reaction"],
+    "antonyms": ["question", "query"],
+    "sentences": ["She gave a vague answer to the question.", "He answered the phone when it rang."],
+    "syllables": "an·​swer",
+    "partsOfSpeech": "noun, verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b48a" },
+    "word": "ant",
+    "meaning": "a small insect that lives in large groups",
+    "origin": "Old English ǣmette",
+    "ipaPronunciation": "ænt",
+    "synonyms": ["insect", "bug", "pest"],
+    "antonyms": ["mammal", "reptile"],
+    "sentences": ["The ant colony was destroyed by the flood.", "The ant is a hard-working insect."],
+    "syllables": "ant",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b48b" },
+    "word": "any",
+    "meaning": "one, some, every, or all without specification",
+    "origin": "Middle English ani",
+    "ipaPronunciation": "ˈɛni",
+    "synonyms": ["some", "a few", "a little"],
+    "antonyms": ["none", "no", "zero"],
+    "sentences": ["Do you have any questions?", "I don't have any money."],
+    "syllables": "an·​y",
+    "partsOfSpeech": "adjective, pronoun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b48c" },
+    "word": "apartment",
+    "meaning": "a room or set of rooms used as a residence",
+    "origin": "Latin appartāre",
+    "ipaPronunciation": "əˈpɑrtmənt",
+    "synonyms": ["flat", "condo", "suite"],
+    "antonyms": ["house", "mansion"],
+    "sentences": ["She lives in a small apartment in the city.", "The apartment has two bedrooms and one bathroom."],
+    "syllables": "a·​part·​ment",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b48e" },
+    "word": "arm",
+    "meaning": "the upper limb of the human body",
+    "origin": "Old English arm",
+    "ipaPronunciation": "ɑrm",
+    "synonyms": ["limb", "appendage", "branch"],
+    "antonyms": ["leg", "foot"],
+    "sentences": ["He broke his arm in a car accident.", "She has a tattoo on her arm."],
+    "syllables": "arm",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b48f" },
+    "word": "army",
+    "meaning": "a large organized body of armed personnel",
+    "origin": "Middle English armee",
+    "ipaPronunciation": "ˈɑrmi",
+    "synonyms": ["military", "navy", "air force"],
+    "antonyms": ["civilian", "citizen"],
+    "sentences": ["The army was sent to the border.", "The army is fighting for our country."],
+    "syllables": "ar·​my",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b490" },
+    "word": "art",
+    "meaning": "the quality, production, expression, or realm of what is beautiful",
+    "origin": "Middle English, from Old French, from Latin ars",
+    "ipaPronunciation": "ɑrt",
+    "synonyms": ["craft", "skill", "technique"],
+    "antonyms": ["science", "math"],
+    "sentences": ["She is studying art at the university.", "He is a famous artist."],
+    "syllables": "art",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b491" },
+    "word": "as",
+    "meaning": "to the same degree or amount",
+    "origin": "Middle English, from Old English eallswā",
+    "ipaPronunciation": "æz",
+    "synonyms": ["equally", "likewise", "similarly"],
+    "antonyms": ["dissimilar", "different"],
+    "sentences": ["He is as tall as his father.", "She is as smart as her sister."],
+    "syllables": "as",
+    "partsOfSpeech": "adverb, conjunction, preposition"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b492" },
+    "word": "ask",
+    "meaning": "to put a question about something to someone",
+    "origin": "Old English āscian",
+    "ipaPronunciation": "æsk",
+    "synonyms": ["question", "inquire", "query"],
+    "antonyms": ["answer", "reply"],
+    "sentences": ["Don't hesitate to ask if you have any doubts.", "He will ask his teacher for help with the assignment."],
+    "syllables": "ask",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b493" },
+    "word": "at",
+    "meaning": "used to indicate a particular place or time",
+    "origin": "Middle English, from Old English æt",
+    "ipaPronunciation": "ət",
+    "synonyms": ["in", "on", "near"],
+    "antonyms": ["away", "off"],
+    "sentences": ["I will meet you at the park.", "She will be at the party."],
+    "syllables": "at",
+    "partsOfSpeech": "preposition"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b494" },
+    "word": "ate",
+    "meaning": "past tense of eat",
+    "origin": "Middle English eten",
+    "ipaPronunciation": "eɪt",
+    "synonyms": ["consumed", "devoured", "swallowed"],
+    "antonyms": ["fasted", "starved"],
+    "sentences": ["I ate a sandwich for lunch.", "She ate a bowl of cereal for breakfast."],
+    "syllables": "ate",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b495" },
+    "word": "August",
+    "meaning": "the eighth month of the year",
+    "origin": "Latin Augustus",
+    "ipaPronunciation": "ɔːˈɡʌst",
+    "synonyms": ["summer", "summertime"],
+    "antonyms": ["winter", "spring"],
+    "sentences": ["My birthday is in August.", "She was born in August."],
+    "syllables": "Au·​gust",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b496" },
+    "word": "aunt",
+    "meaning": "the sister of one's father or mother",
+    "origin": "Middle English, from Old French ante, from Latin amita",
+    "ipaPronunciation": "ænt",
+    "synonyms": ["auntie", "aunty", "auntie"],
+    "antonyms": ["nephew", "niece"],
+    "sentences": ["My aunt is coming to visit this weekend.", "She is my aunt."],
+    "syllables": "aunt",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b497" },
+    "word": "autumn",
+    "meaning": "the season between summer and winter",
+    "origin": "Middle English autumpne",
+    "ipaPronunciation": "ˈɔːtəm",
+    "synonyms": ["fall", "harvest", "season"],
+    "antonyms": ["spring", "summer"],
+    "sentences": ["The leaves change color in autumn.", "The weather is cooler in autumn."],
+    "syllables": "au·​tumn",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b498" },
+    "word": "baby",
+    "meaning": "a very young child",
+    "origin": "Middle English babi",
+    "ipaPronunciation": "ˈbeɪbi",
+    "synonyms": ["infant", "child", "toddler"],
+    "antonyms": ["adult", "grown-up"],
+    "sentences": ["The baby is sleeping.", "She is a cute baby."],
+    "syllables": "ba·​by",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b499" },
+    "word": "back",
+    "meaning": "the rear surface of the human body from the shoulders to the hips",
+    "origin": "Middle English bak",
+    "ipaPronunciation": "ˈbæk",
+    "synonyms": ["rear", "hind", "posterior"],
+    "antonyms": ["front", "face", "fore"],
+    "sentences": ["He is sitting at the back of the class.", "I hurt my back."],
+    "syllables": "back",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b49a" },
+    "word": "bad",
+    "meaning": "not good in any manner or degree",
+    "origin": "Middle English badde",
+    "ipaPronunciation": "ˈbæd",
+    "synonyms": ["awful", "terrible", "poor"],
+    "antonyms": ["good", "excellent", "great"],
+    "sentences": ["The weather is bad today.", "I had a bad day at work."],
+    "syllables": "bad",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b49b" },
+    "word": "bag",
+    "meaning": "a container made of flexible material with an opening at the top",
+    "origin": "Middle English bagge",
+    "ipaPronunciation": "bæɡ",
+    "synonyms": ["sack", "pouch", "pocket"],
+    "antonyms": ["none"],
+    "sentences": ["I have a bag of apples.", "The bag is full of apples."],
+    "syllables": "bag",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b49c" },
+    "word": "bake",
+    "meaning": "to cook by dry heat",
+    "origin": "Middle English baken",
+    "ipaPronunciation": "beɪk",
+    "synonyms": ["cook", "roast", "grill"],
+    "antonyms": ["freeze", "cool", "chill"],
+    "sentences": ["I bake a cake.", "The cake is baking."],
+    "syllables": "bake",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b49d" },
+    "word": "balance",
+    "meaning": "a state of equilibrium",
+    "origin": "Middle English balaunce",
+    "ipaPronunciation": "ˈbæləns",
+    "synonyms": ["equilibrium", "stability", "symmetry"],
+    "antonyms": ["imbalance", "instability", "inequality"],
+    "sentences": ["I have a good balance.", "The balance is off."],
+    "syllables": "bal·ance",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b49e" },
+    "word": "ball",
+    "meaning": "a spherical or approximately spherical body or shape",
+    "origin": "Middle English bal",
+    "ipaPronunciation": "bɔːl",
+    "synonyms": ["sphere", "orb", "globe"],
+    "antonyms": ["none"],
+    "sentences": ["I have a ball.", "The ball is red."],
+    "syllables": "ball",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b49f" },
+    "word": "band",
+    "meaning": "a flat, thin strip or loop of material",
+    "origin": "Middle English band",
+    "ipaPronunciation": "bænd",
+    "synonyms": ["strip", "ribbon", "belt"],
+    "antonyms": ["none"],
+    "sentences": ["I have a band.", "The band is blue."],
+    "syllables": "band",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a0" },
+    "word": "bank",
+    "meaning": "a financial establishment that invests money deposited by customers",
+    "origin": "Middle English banke",
+    "ipaPronunciation": "bæŋk",
+    "synonyms": ["financial institution", "credit union", "savings and loan"],
+    "antonyms": ["none"],
+    "sentences": ["I have a bank account.", "The bank is open."],
+    "syllables": "bank",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a1" },
+    "word": "bar",
+    "meaning": "a relatively long, evenly shaped piece of some solid substance",
+    "origin": "Middle English barre",
+    "ipaPronunciation": "bɑːr",
+    "synonyms": ["rod", "pole", "stick"],
+    "antonyms": ["none"],
+    "sentences": ["I have a bar of soap.", "The bar is long."],
+    "syllables": "bar",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a2" },
+    "word": "base",
+    "meaning": "the bottom support of anything",
+    "origin": "Middle English bas",
+    "ipaPronunciation": "beɪs",
+    "synonyms": ["bottom", "foundation", "foot"],
+    "antonyms": ["top", "apex"],
+    "sentences": ["I have a base.", "The base is strong."],
+    "syllables": "base",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a3" },
+    "word": "bat",
+    "meaning": "a small, nocturnal, flying mammal",
+    "origin": "Middle English batte",
+    "ipaPronunciation": "bæt",
+    "synonyms": ["none"],
+    "antonyms": ["none"],
+    "sentences": ["I have a bat.", "The bat is black."],
+    "syllables": "bat",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a4" },
+    "word": "bath",
+    "meaning": "a washing or immersion of something, especially the body, in water",
+    "origin": "Middle English bathe",
+    "ipaPronunciation": "bæθ",
+    "synonyms": ["shower", "soak", "dip"],
+    "antonyms": ["none"],
+    "sentences": ["I have a bath.", "The bath is warm."],
+    "syllables": "bath",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a5" },
+    "word": "battle",
+    "meaning": "a hostile encounter or engagement between opposing military forces",
+    "origin": "Middle English batel",
+    "ipaPronunciation": "ˈbætl",
+    "synonyms": ["fight", "conflict", "war"],
+    "antonyms": ["peace", "truce", "agreement"],
+    "sentences": ["I have a battle.", "The battle is long."],
+    "syllables": "bat·tle",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a6" },
+    "word": "be",
+    "meaning": "to exist or live",
+    "origin": "Middle English be",
+    "ipaPronunciation": "biː",
+    "synonyms": ["exist", "live", "survive"],
+    "antonyms": ["die", " perish", "cease"],
+    "sentences": ["I am.", "The dog is."],
+    "syllables": "be",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a7" },
+    "word": "bear",
+    "meaning": "to hold up; support",
+    "origin": "Middle English beren",
+    "ipaPronunciation": "beər",
+    "synonyms": ["support", "carry", "hold"],
+    "antonyms": ["abandon", "discontinue", "drop"],
+    "sentences": ["I bear the weight.", "The bear is strong."],
+    "syllables": "bear",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a8" },
+    "word": "beat",
+    "meaning": "to strike violently or forcefully and repeatedly",
+    "origin": "Middle English beten",
+    "ipaPronunciation": "biːt",
+    "synonyms": ["strike", "hit", "pound"],
+    "antonyms": ["lose", "fail", "surrender"],
+    "sentences": ["I beat the drum.", "The beat is fast."],
+    "syllables": "beat",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4a9" },
+    "word": "beautiful",
+    "meaning": "having beauty",
+    "origin": "Middle English beaute",
+    "ipaPronunciation": "ˈbjuːtɪf(ə)l",
+    "synonyms": ["attractive", "pretty", "lovely"],
+    "antonyms": ["ugly", "unattractive", "hideous"],
+    "sentences": ["I am beautiful.", "The flower is beautiful."],
+    "syllables": "beau·ti·ful",
+    "partsOfSpeech": "adjective"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4aa" },
+    "word": "because",
+    "meaning": "for the reason that",
+    "origin": "Middle English by cause",
+    "ipaPronunciation": "bɪˈkɒz",
+    "synonyms": ["since", "as", "for"],
+    "antonyms": ["therefore", "consequently", "thus"],
+    "sentences": ["I am happy because I am alive.", "The dog is happy because it is alive."],
+    "syllables": "be·cause",
+    "partsOfSpeech": "conjunction"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4ab" },
+    "word": "become",
+    "meaning": "to come, change, or grow to be",
+    "origin": "Middle English becumen",
+    "ipaPronunciation": "bɪˈkʌm",
+    "synonyms": ["grow", "develop", "evolve"],
+    "antonyms": ["stop", "cease", "halt"],
+    "sentences": ["The caterpillar becomes a butterfly.", "The butterfly becomes a caterpillar."],
+    "syllables": "be·come",
+    "partsOfSpeech": "verb"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4ac" },
+    "word": "bed",
+    "meaning": "a piece of furniture upon which or within which a person sleeps, rests, or stays when not well",
+    "origin": "Middle English bedde",
+    "ipaPronunciation": "bɛd",
+    "synonyms": ["couch", "bunk", "cot"],
+    "antonyms": ["none"],
+    "sentences": ["I have a bed.", "The bed is soft."],
+    "syllables": "bed",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4ad" },
+    "word": "bee",
+    "meaning": "any hymenopterous insect of the superfamily Apoidea, including social and solitary species of several families, as the bumblebees, honeybees, etc",
+    "origin": "Middle English be",
+    "ipaPronunciation": "biː",
+    "synonyms": ["none"],
+    "antonyms": ["none"],
+    "sentences": ["I have a bee.", "The bee is yellow."],
+    "syllables": "bee",
+    "partsOfSpeech": "noun"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4ae" },
+    "word": "before",
+    "meaning": "previous to; earlier or sooner than",
+    "origin": "Middle English biforen",
+    "ipaPronunciation": "bɪˈfɔː",
+    "synonyms": ["ahead", "earlier", "previously"],
+    "antonyms": ["after", "later", "behind"],
+    "sentences": ["I was here before.", "The dog was here before."],
+    "syllables": "be·fore",
+    "partsOfSpeech": "preposition"
+  },
+  {
+    "_id": { "$oid": "63f9d613cf20befc38b1b4af" },
+    "word": "begin",
+    "meaning": "to proceed to perform the first or earliest part of some action; commence; start",
+    "origin": "Middle English biginnen",
+    "ipaPronunciation": "bɪˈɡɪn",
+    "synonyms": ["start", "commence", "initiate"],
+    "antonyms": ["end", "finish", "conclude"],
+    "sentences": ["I begin to run.", "The dog begins to run."],
+    "syllables": "be·gin",
+    "partsOfSpeech": "verb"
+  },  
+  {
+    "word": "cat",
+    "meaning": "a furry animal",
+    "synonyms": ["feline"],
+    "antonyms": [],
+    "sentence": "The cat chased after a mouse."
+  },
+  {
+    "word": "dog",
+    "meaning": "a loyal pet",
+    "synonyms": ["canine"],
+    "antonyms": [],
+    "sentence": "The dog loves to play fetch."
+  },
+  {
+    "word": "elephant",
+    "meaning": "a large mammal with a trunk",
+    "synonyms": [],
+    "antonyms": [],
+    "sentence": "Elephants are known for their intelligence."
+  },
+  {
+    "word": "flower",
+    "meaning": "a colorful plant",
+    "synonyms": ["blossom"],
+    "antonyms": ["weed"],
+    "sentence": "The garden is full of beautiful flowers."
+  },
+  {
+    "word": "grape",
+    "meaning": "a fruit",
+    "synonyms": ["fruit"],
+    "antonyms": [],
+    "sentence": "These grapes are sweet and juicy."
+  },
+  {
+    "word": "green",
+    "meaning": "the color of grass",
+    "synonyms": ["emerald"],
+    "antonyms": ["red"],
+    "sentence": "The leaves turn green in the spring."
+  },
+  {
+    "word": "happy",
+    "meaning": "feeling joy",
+    "synonyms": ["joyful", "content"],
+    "antonyms": ["sad", "unhappy"],
+    "sentence": "She was happy with her exam results."
+  },
+  {
+    "word": "house",
+    "meaning": "a place where people live",
+    "synonyms": ["home", "residence"],
+    "antonyms": [],
+    "sentence": "They have a beautiful house with a garden."
+  },
+  {
+    "word": "ice",
+    "meaning": "frozen water",
+    "synonyms": ["frost", "frozen water"],
+    "antonyms": ["heat"],
+    "sentence": "The lake was covered in ice during winter."
+  },
+  {
+    "word": "island",
+    "meaning": "a piece of land surrounded by water",
+    "synonyms": [],
+    "antonyms": [],
+    "sentence": "They went on a vacation to a tropical island."
+  },
+  {
+    "word": "jacket",
+    "meaning": "a piece of outerwear",
+    "synonyms": ["coat"],
+    "antonyms": [],
+    "sentence": "He wore a warm jacket in the cold weather."
+  },
+  {
+    "word": "kite",
+    "meaning": "a toy flown in the air",
+    "synonyms": ["toy"],
+    "antonyms": [],
+    "sentence": "We flew a colorful kite in the park."
+  },
+  {
+    "word": "lamp",
+    "meaning": "a device that produces light",
+    "synonyms": ["light", "lantern"],
+    "antonyms": [],
+    "sentence": "She turned on the lamp to read."
+  },
+  {
+    "word": "mango",
+    "meaning": "a fruit",
+    "synonyms": ["fruit"],
+    "antonyms": [],
+    "sentence": "The ripe mangoes are delicious."
+  },
+  {
+    "word": "nest",
+    "meaning": "a structure where birds lay eggs",
+    "synonyms": ["birdhouse"],
+    "antonyms": [],
+    "sentence": "The bird built a nest in the tree."
+  },
+  {
+    "word": "orange",
+    "meaning": "a fruit",
+    "synonyms": ["fruit"],
+    "antonyms": [],
+    "sentence": "He peeled the orange and ate it."
+  },
+  {
+    "word": "pen",
+    "meaning": "a writing instrument",
+    "synonyms": ["pencil"],
+    "antonyms": [],
+    "sentence": "She used a pen to write a letter."
+  },
+  {
+    "word": "queen",
+    "meaning": "a female monarch",
+    "synonyms": ["monarch"],
+    "antonyms": ["king"],
+    "sentence": "The queen waved to the crowd from her carriage."
+  },
+  {
+    "word": "rain",
+    "meaning": "water falling from the sky",
+    "synonyms": ["precipitation"],
+    "antonyms": [],
+    "sentence": "We carried umbrellas in case of rain."
+  },
+  {
+    "word": "sun",
+    "meaning": "the star that provides light and heat to Earth",
+    "synonyms": ["star"],
+    "antonyms": [],
+    "sentence": "The sun rises in the east and sets in the west."
+  },
+  {
+    "word": "tree",
+    "meaning": "a tall plant with a trunk and branches",
+    "synonyms": ["plant"],
+    "antonyms": [],
+    "sentence": "The squirrel climbed up the tree."
+  },
+  {
+    "word": "umbrella",
+    "meaning": "a device used to protect from rain",
+    "synonyms": ["parasol"],
+    "antonyms": [],
+    "sentence": "She carried an umbrella to stay dry."
+  },
+  {
+    "word": "violin",
+    "meaning": "a musical instrument with strings",
+    "synonyms": ["fiddle"],
+    "antonyms": [],
+    "sentence": "She played a beautiful tune on the violin."
+  },
+  {
+    "word": "watch",
+    "meaning": "a timekeeping device worn on the wrist",
+    "synonyms": ["timepiece"],
+    "antonyms": [],
+    "sentence": "He checked the time on his watch."
+  },
+  {
+    "word": "xylophone",
+    "meaning": "a musical instrument with wooden bars",
+    "synonyms": ["percussion instrument"],
+    "antonyms": [],
+    "sentence": "The child played the xylophone in the school band."
+  },
+  {
+    "word": "yogurt",
+    "meaning": "a dairy product",
+    "synonyms": ["dairy food"],
+    "antonyms": [],
+    "sentence": "She had yogurt for breakfast with some fruits."
+  },
+  {
+    "word": "zebra",
+    "meaning": "a striped African animal",
+    "synonyms": ["animal"],
+    "antonyms": [],
+    "sentence": "We saw zebras grazing in the savannah."
+  }
+]

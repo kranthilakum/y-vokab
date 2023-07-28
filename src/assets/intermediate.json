@@ -1,0 +1,352 @@
+[
+  {
+    "word": "ambitious",
+    "meaning": "having a strong desire to succeed or achieve something",
+    "synonyms": ["aspiring", "determined"],
+    "antonyms": ["unambitious", "indifferent"],
+    "sentence": "She is an ambitious student with big dreams."
+  },
+  {
+    "word": "benevolent",
+    "meaning": "showing kindness and goodwill",
+    "synonyms": ["charitable", "compassionate"],
+    "antonyms": ["malevolent", "selfish"],
+    "sentence": "The wealthy philanthropist was known for his benevolent deeds."
+  },
+  {
+    "word": "capitulate",
+    "meaning": "to surrender or give up resistance",
+    "synonyms": ["yield", "concede"],
+    "antonyms": ["resist", "defend"],
+    "sentence": "After a long battle, the rebels decided to capitulate to the authorities."
+  },
+  {
+    "word": "diligent",
+    "meaning": "hard-working and attentive to details",
+    "synonyms": ["industrious", "conscientious"],
+    "antonyms": ["lazy", "careless"],
+    "sentence": "The diligent student always completed her assignments on time."
+  },
+  {
+    "word": "fervent",
+    "meaning": "showing passionate intensity or feeling",
+    "synonyms": ["ardent", "zealous"],
+    "antonyms": ["apathetic", "indifferent"],
+    "sentence": "She expressed her fervent belief in the importance of education."
+  },
+  {
+    "word": "gregarious",
+    "meaning": "sociable and fond of company",
+    "synonyms": ["outgoing", "friendly"],
+    "antonyms": ["unsociable", "reserved"],
+    "sentence": "He is a gregarious person who enjoys being around people."
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "a proposed explanation based on limited evidence",
+    "synonyms": ["theory", "supposition"],
+    "antonyms": ["fact", "proof"],
+    "sentence": "The scientist formulated a hypothesis to test in the experiment."
+  },
+  {
+    "word": "impeccable",
+    "meaning": "without any flaws or mistakes",
+    "synonyms": ["flawless", "perfect"],
+    "antonyms": ["imperfect", "faulty"],
+    "sentence": "Her impeccable manners impressed everyone at the formal event."
+  },
+  {
+    "word": "jubilant",
+    "meaning": "feeling or expressing great happiness and triumph",
+    "synonyms": ["ecstatic", "elated"],
+    "antonyms": ["miserable", "disheartened"],
+    "sentence": "The team was jubilant after winning the championship."
+  },
+  {
+    "word": "kinship",
+    "meaning": "a close connection or relationship between people",
+    "synonyms": ["affiliation", "relationship"],
+    "antonyms": ["estrangement", "disconnection"],
+    "sentence": "The sense of kinship among the members of the small community was strong."
+  },
+  {
+    "word": "lament",
+    "meaning": "to express grief or sorrow",
+    "synonyms": ["mourn", "grieve"],
+    "antonyms": ["celebrate", "rejoice"],
+    "sentence": "The poet penned a lament for the fallen soldiers."
+  },
+  {
+    "word": "magnanimous",
+    "meaning": "generous and forgiving, especially towards a rival or an enemy",
+    "synonyms": ["benevolent", "noble"],
+    "antonyms": ["selfish", "vindictive"],
+    "sentence": "Despite the defeat, the captain was magnanimous in praising the opposing team."
+  },
+  {
+    "word": "nomadic",
+    "meaning": "wandering from place to place with no permanent settlement",
+    "synonyms": ["roaming", "itinerant"],
+    "antonyms": ["sedentary", "settled"],
+    "sentence": "The nomadic tribe traveled with their herds across vast grasslands."
+  },
+  {
+    "word": "oblivion",
+    "meaning": "the state of being completely forgotten or unknown",
+    "synonyms": ["obscurity", "forgetfulness"],
+    "antonyms": ["fame", "recognition"],
+    "sentence": "The artist's work was nearly lost to oblivion until it was rediscovered."
+  },
+  {
+    "word": "pervasive",
+    "meaning": "spreading widely and extensively throughout an area or a group",
+    "synonyms": ["ubiquitous", "prevalent"],
+    "antonyms": ["scarce", "limited"],
+    "sentence": "The pervasive influence of technology touches almost every aspect of modern life."
+  },
+  {
+    "word": "quandary",
+    "meaning": "a state of uncertainty or perplexity, especially in making a decision",
+    "synonyms": ["dilemma", "predicament"],
+    "antonyms": ["certainty", "solution"],
+    "sentence": "She found herself in a quandary, torn between two equally appealing job offers."
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "the art of persuasive speaking or writing",
+    "synonyms": ["oratory", "eloquence"],
+    "antonyms": ["plainness", "inarticulateness"],
+    "sentence": "His use of rhetoric captivated the audience during the speech."
+  },
+  {
+    "word": "sycophant",
+    "meaning": "a person who flatters someone influential to gain advantage or favor",
+    "synonyms": ["flatterer", "bootlicker"],
+    "antonyms": ["critic", "dissenter"],
+    "sentence": "The sycophant constantly praised the boss to get promoted."
+  },
+  {
+    "word": "taciturn",
+    "meaning": "tending to be quiet and reserved in conversation",
+    "synonyms": ["reticent", "reserved"],
+    "antonyms": ["talkative", "chatty"],
+    "sentence": "The taciturn man rarely spoke, keeping his thoughts to himself."
+  },
+  {
+    "word": "ubiquity",
+    "meaning": "the state of being everywhere or seeming to be everywhere at the same time",
+    "synonyms": ["omnipresence", "pervasiveness"],
+    "antonyms": ["rarity", "scarcity"],
+    "sentence": "The ubiquity of smartphones has changed how we communicate."
+  },
+  {
+    "word": "vex",
+    "meaning": "to irritate or annoy persistently",
+    "synonyms": ["bother", "irritate"],
+    "antonyms": ["please", "delight"],
+    "sentence": "His constant complaining vexed everyone around him."
+  },
+  {
+    "word": "wane",
+    "meaning": "to decrease in size, intensity, or power",
+    "synonyms": ["decline", "diminish"],
+    "antonyms": ["grow", "increase"],
+    "sentence": "The moon's brightness began to wane as it moved towards a crescent shape."
+  },
+  {
+    "word": "xenophobia",
+    "meaning": "a strong dislike or fear of people from other countries or cultures",
+    "synonyms": ["prejudice", "discrimination"],
+    "antonyms": ["tolerance", "acceptance"],
+    "sentence": "The rise of xenophobia led to tensions between different ethnic groups."
+  },
+  {
+    "word": "yearn",
+    "meaning": "to have a strong desire or longing for something",
+    "synonyms": ["crave", "long"],
+    "antonyms": ["dislike", "abhor"],
+    "sentence": "She yearned for adventure and travel to far-off lands."
+  },
+  {
+    "word": "zealot",
+    "meaning": "a person who is fanatical and uncompromising in pursuit of their beliefs",
+    "synonyms": ["fanatic", "extremist"],
+    "antonyms": ["moderate", "dissenter"],
+    "sentence": "The religious zealot devoted his life to spreading his faith."
+  },
+  {
+    "word": "acerbic",
+    "meaning": "sharp and forthright, often with a negative tone",
+    "synonyms": ["caustic", "sardonic"],
+    "antonyms": ["sweet", "pleasant"],
+    "sentence": "His acerbic wit often caught people off guard."
+  },
+  {
+    "word": "bane",
+    "meaning": "a cause of great distress or annoyance",
+    "synonyms": ["curse", "plague"],
+    "antonyms": ["blessing", "benefit"],
+    "sentence": "The loud construction work was the bane of the neighborhood."
+  },
+  {
+    "word": "cogent",
+    "meaning": "convincing and well-argued, usually referring to an argument or case",
+    "synonyms": ["compelling", "persuasive"],
+    "antonyms": ["unconvincing", "weak"],
+    "sentence": "The lawyer presented a cogent case that swayed the jury."
+  },
+  {
+    "word": "deleterious",
+    "meaning": "causing harm or damage",
+    "synonyms": ["harmful", "detrimental"],
+    "antonyms": ["beneficial", "advantageous"],
+    "sentence": "Smoking has a deleterious effect on one's health."
+  },
+  {
+    "word": "feign",
+    "meaning": "to pretend or fake",
+    "synonyms": ["simulate", "pretend"],
+    "antonyms": ["reveal", "disclose"],
+    "sentence": "He tried to feign interest in the conversation, but his mind was elsewhere."
+  },
+  {
+    "word": "garrulous",
+    "meaning": "excessively talkative, especially on trivial matters",
+    "synonyms": ["chatty", "loquacious"],
+    "antonyms": ["reserved", "reticent"],
+    "sentence": "The garrulous neighbor never missed a chance to share gossip."
+  },
+  {
+    "word": "hallowed",
+    "meaning": "holy or sacred",
+    "synonyms": ["sanctified", "consecrated"],
+    "antonyms": ["profane", "desecrated"],
+    "sentence": "The ancient temple is a hallowed place of worship."
+  },
+  {
+    "word": "iconoclast",
+    "meaning": "a person who challenges traditional beliefs, customs, or institutions",
+    "synonyms": ["maverick", "dissenter"],
+    "antonyms": ["conformist", "traditionalist"],
+    "sentence": "The artist was known as an iconoclast for his controversial and innovative works."
+  },
+  {
+    "word": "juxtapose",
+    "meaning": "to place two or more things together for comparison",
+    "synonyms": ["compare", "contrast"],
+    "antonyms": ["separate", "disconnect"],
+    "sentence": "The photographer juxtaposed images of poverty and wealth to highlight societal contrasts."
+  },
+  {
+    "word": "kudos",
+    "meaning": "praise and honor for an achievement",
+    "synonyms": ["acclaim", "applause"],
+    "antonyms": ["criticism", "disapproval"],
+    "sentence": "The team received kudos for their outstanding performance in the competition."
+  },
+  {
+    "word": "laud",
+    "meaning": "to praise or extol highly",
+    "synonyms": ["commend", "applaud"],
+    "antonyms": ["criticize", "condemn"],
+    "sentence": "The leader's speech lauded the efforts of the volunteers."
+  },
+  {
+    "word": "mollify",
+    "meaning": "to appease or pacify someone's anger or anxiety",
+    "synonyms": ["soothe", "calm"],
+    "antonyms": ["provoke", "agitate"],
+    "sentence": "The mediator tried to mollify both parties during the heated negotiation."
+  },
+  {
+    "word": "nebulous",
+    "meaning": "vague, unclear, or ill-defined",
+    "synonyms": ["ambiguous", "indistinct"],
+    "antonyms": ["clear", "precise"],
+    "sentence": "Her answer was nebulous and didn't provide a definite solution."
+  },
+  {
+    "word": "obfuscate",
+    "meaning": "to deliberately make something confusing or difficult to understand",
+    "synonyms": ["confound", "bewilder"],
+    "antonyms": ["clarify", "explain"],
+    "sentence": "The politician tried to obfuscate the issue to avoid giving a direct answer."
+  },
+  {
+    "word": "panacea",
+    "meaning": "a solution or remedy for all problems or difficulties",
+    "synonyms": ["cure-all", "remedy"],
+    "antonyms": ["problem", "issue"],
+    "sentence": "The technology was once thought to be a panacea for all environmental issues."
+  },
+  {
+    "word": "quixotic",
+    "meaning": "idealistic and impractical, with a romantic or chivalrous outlook",
+    "synonyms": ["visionary", "utopian"],
+    "antonyms": ["practical", "realistic"],
+    "sentence": "His quixotic dreams of building a utopian society were met with skepticism."
+  },
+  {
+    "word": "raconteur",
+    "meaning": "a skilled and entertaining storyteller",
+    "synonyms": ["narrator", "anecdotalist"],
+    "antonyms": ["mute", "introvert"],
+    "sentence": "The raconteur captivated the audience with humorous anecdotes."
+  },
+  {
+    "word": "sanguine",
+    "meaning": "optimistic, especially in difficult situations",
+    "synonyms": ["hopeful", "confident"],
+    "antonyms": ["pessimistic", "despondent"],
+    "sentence": "Despite setbacks, she remained sanguine about the future."
+  },
+  {
+    "word": "tenuous",
+    "meaning": "thin, weak, or flimsy, often referring to a connection or an argument",
+    "synonyms": ["fragile", "slight"],
+    "antonyms": ["strong", "substantial"],
+    "sentence": "The tenuous link between the two events raised doubts about causality."
+  },
+  {
+    "word": "umbrage",
+    "meaning": "offense or resentment, often from a perceived slight or insult",
+    "synonyms": ["annoyance", "irritation"],
+    "antonyms": ["approval", "acceptance"],
+    "sentence": "She took umbrage at the criticism and felt hurt by the comments."
+  },
+  {
+    "word": "vacillate",
+    "meaning": "to waver between different opinions or actions",
+    "synonyms": ["hesitate", "fluctuate"],
+    "antonyms": ["decide", "determine"],
+    "sentence": "He tends to vacillate when making important decisions."
+  },
+  {
+    "word": "wistful",
+    "meaning": "having or showing a feeling of longing or nostalgia",
+    "synonyms": ["yearning", "melancholic"],
+    "antonyms": ["content", "satisfied"],
+    "sentence": "The old photographs made her feel wistful for the carefree days of her youth."
+  },
+  {
+    "word": "xeric",
+    "meaning": "adapted to or living in dry conditions",
+    "synonyms": ["arid", "dry"],
+    "antonyms": ["humid", "moist"],
+    "sentence": "Cacti are well-known for their xeric adaptations to survive in desert environments."
+  },
+  {
+    "word": "yoke",
+    "meaning": "to join or unite two things together",
+    "synonyms": ["connect", "link"],
+    "antonyms": ["separate", "disconnect"],
+    "sentence": "The treaty yoked the two countries in a mutual defense agreement."
+  },
+  {
+    "word": "zealous",
+    "meaning": "having great enthusiasm or passion for a cause or belief",
+    "synonyms": ["ardent", "fervent"],
+    "antonyms": ["apathetic", "indifferent"],
+    "sentence": "The zealous supporters cheered for their team with unwavering energy."
+  }
+]
