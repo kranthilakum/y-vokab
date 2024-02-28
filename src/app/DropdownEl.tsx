@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { FormControl, InputLabel, MenuItem } from "@mui/material";
 import Select, { SelectChangeEvent } from '@mui/material/Select';
 
@@ -8,10 +8,27 @@ interface DropdownProps {
 }
 
 const DropdownEl: React.FC<DropdownProps> = ({ selectedSet, onSetChange }) => {
-  const sets: string[] = ["Basic", "Intermediate", "IELTS", "TOEFL", "GRE", "SAT"]; // Add other sets here
+
+  // get a list of all the sets from remote api `/collections`
+  const [sets, setSets] = useState<string[]>([]);
+  useEffect(() => {
+    fetch("http://localhost:3001/api/collections")
+      .then((res) => res.json())
+      .then((data) => {
+        console.log(`fetched sets: ${data}`);
+        return setSets(data)
+      });
+  }, []);
 
   const handleSetChange = (event: SelectChangeEvent) => {
     onSetChange(event.target.value);
+    console.log(`selected set: ${event.target.value}`);
+    // select a mongo collection based on the selected set and fetch the data
+    fetch(`http://localhost:3001/api/collections/${event.target.value}`)
+      .then((res) => res.json())
+      .then((data) => {
+        console.log(`fetched data: ${data}`);
+      });
   };
 
   return (
